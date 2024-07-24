@@ -44,7 +44,7 @@ const Mongolia = {
   code: [Javascript, Typescript, HTML, CSS, Next.js, TailwindCSS],
   tools: [React, Node.js,],
   architecture: ["Front-End", "Design"],
-  techCommunities: {
+  Whatever me: {
                         Realname: "Unumunkh"
                         Nickname: "Jerry"
                         Academy: "Pinecone"
@@ -61,38 +61,18 @@ const Mongolia = {
 
 # Contact Me : 📞
 
-<p>
- </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="left" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me .
 
-<a href="https://www.facebook.com/unumunkh.baterdeneunumunkh/">
- <img align="left" alt="facebbok" width="80" hight="60" src="https://cdn-icons-png.flaticon.com/128/3670/3670124.png" />
-</a>
-<a href="https://www.instagram.com/uunu_bn/">
-  <img align="left" alt="Linkedin" width="80" hight="60" src="https://cdn-icons-png.flaticon.com/128/3670/3670125.png" />
-    
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+```javascript
+const contact = [
+  { phone: "+976-91460080" },
+  { facebook: "Uunu bn" },
+  { instagram: "Uunu_bn" },
+  { gmail: "innerdot559@gmail.com" },
+];
+```
