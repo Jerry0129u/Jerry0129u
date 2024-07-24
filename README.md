@@ -45,10 +45,10 @@ const Mongolia = {
   tools: [React, Node.js,],
   architecture: ["Front-End", "Design"],
   Whatever me: {
-                        Realname: "Unumunkh"
-                        Nickname: "Jerry"
-                        Academy: "Pinecone"
-                      },
+               Realname: "Unumunkh"
+               Nickname: "Jerry"
+               Academy: "Pinecone"
+               },
  challenge: "I am doing the #100DaysOfCode challenge focused on javascript"
 }
 ```
@@ -63,8 +63,7 @@ const Mongolia = {
 
 
 
-<img hight="320" width="450" align="left" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
+<img hight="320" width="450" align="left" alt="GIF" src="https://media1.tenor.com/m/KHg26xfO5Q8AAAAd/anime-takagi-san.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me .
 
