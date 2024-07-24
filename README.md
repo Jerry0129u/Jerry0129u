@@ -10,20 +10,17 @@
 </br>
 
 
-# About ME 💬 :
+# About ME : 🎲
 
 ### - I'm 21 years  old Fullstack Developer & Digital Artist Ulaanbaatar from Mongolia.
 
 <img hight="400" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
-- ✨ Hypertext Markup Language
-- ✨ Cascading Style Sheets
-- ✨ JavaScript
-- ✨ Node.js
-- ✨ Next.js
-- ✨ React
-- ✨ TailwindCSS
+### - I want to learn :
+- ✨ Back-End
+- ✨ Data SQL
+- ✨ Phyton
+- ✨ MongoDB
 
 ### - Hobbies : 
 - ✨ Playing Valorant
@@ -37,22 +34,22 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools : 🧩
 </br>
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const Mongolia = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Next.js, TailwindCSS],
+  tools: [React, Node.js,],
+  architecture: ["Front-End", "Design"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        Realname: "Unumunkh"
+                        Nickname: "Jerry"
+                        Academy: "Pinecone"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on javascript"
 }
 ```
 
