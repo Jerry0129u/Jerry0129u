@@ -4,7 +4,7 @@
 </br>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="600" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
@@ -66,11 +66,6 @@ const Mongolia = {
 
 # Contact Me : 📞
 
-
-<div display="flex" gap="30px">
-    
-<img hight="320" width="450" align="left" alt="GIF" src="https://media1.tenor.com/m/KHg26xfO5Q8AAAAd/anime-takagi-san.gif">
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me .
 
 ```javascript
@@ -78,8 +73,8 @@ const contact = [
   { phone: "+976-91460080" },
   { facebook: "Uunu bn" },
   { instagram: "Uunu_bn" },
-  { gmail: "innerdot559@gmail.com" },
+  { gmail: "innerdot559@gmail.com" }
 ];
 ```
-</div>
+
 
