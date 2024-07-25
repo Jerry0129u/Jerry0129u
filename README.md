@@ -1,13 +1,18 @@
 <h1> こんにちは (Kon'nichiwa) <img  width="60" src="https://cdn3.emoji.gg/emojis/8480-narutohello.png"> </h1>
 
+</br>
+</br>
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-    <p>私の名前は Jerry !</p>
+<img hight="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
+    <p align="center">私のニックネームは  &nbsp; Jerry !</p>
+</div>
+
 </br>
-</br>
+
 
 
 # About ME : 🎲
@@ -62,7 +67,8 @@ const Mongolia = {
 # Contact Me : 📞
 
 
-
+<div display="flex" gap="30px">
+    
 <img hight="320" width="450" align="left" alt="GIF" src="https://media1.tenor.com/m/KHg26xfO5Q8AAAAd/anime-takagi-san.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me .
@@ -75,3 +81,4 @@ const contact = [
   { gmail: "innerdot559@gmail.com" },
 ];
 ```
+</div>
