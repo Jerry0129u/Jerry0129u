@@ -19,7 +19,9 @@
 
 ### - I'm 21 years  old Fullstack Developer & Digital Artist Ulaanbaatar from Mongolia.
 
+<div className="mt-2">
 <img hight="400" width="600" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</div>
 
 ### - I want to learn :
 - ✨ Back-End
